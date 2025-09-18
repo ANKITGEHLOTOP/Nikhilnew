@@ -3,11 +3,11 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "22182189"))
-API_HASH = environ.get("API_HASH", "5e7c4088f8e23d0ab61e29ae11960bf5")
+API_ID = int(environ.get("API_ID", "29905645"))
+API_HASH = environ.get("API_HASH", "e5a701f6e0b5fb659cb57a230b9a3feb")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7872473343:AAGNfrMewYX6uhdcavYoioxOoECL41wxWlc")
 
-OWNER = int(environ.get("OWNER", "5680454765"))
+OWNER = int(environ.get("OWNER", "8102112566"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
@@ -23,6 +23,7 @@ if int(OWNER) not in AUTH_USERS:
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
+
 
 
 
